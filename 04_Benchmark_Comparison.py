@@ -150,6 +150,4 @@ for name, data in stats.items():
         print(f"{name:<20} | N/A             | N/A")
 
 print("="*65)
-print("[Ghi chú]")
-print("- Geometric, KNN, SVM dùng Skeleton (cần MediaPipe).")
-print("- CNN dùng ảnh trực tiếp (Image Based).")
+
